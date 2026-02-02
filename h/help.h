@@ -7,6 +7,6 @@
 static inline void help(){
 	printf("HELP:\n");
 	printf("--version: Prints the version of Precise");
-}
+	printf("--uninstall: Uninstalls precise."); // i forgor
 
 #endif // HELP_H
